@@ -12,6 +12,7 @@ public class PrincipalFarmacia {
 
 		Scanner lectura = null;
         String nombreDelDoctor;
+		String nombreDeLaDoctora;
 		String nombreMedi;
 		String marcaMedi;
 		float precioMedi;
