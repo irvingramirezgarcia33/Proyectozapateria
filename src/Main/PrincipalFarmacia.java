@@ -11,7 +11,7 @@ public class PrincipalFarmacia {
 		// TODO Auto-generated method stub
 
 		Scanner lectura = null;
-
+        String nombreDelDoctor;
 		String nombreMedi;
 		String marcaMedi;
 		float precioMedi;
