@@ -6,7 +6,7 @@ import Dominio.Medicamentos;
 import Interface.Metodos;
 
 public class LogicaMetodos implements Metodos {
-
+     //coleccion de elementos trabaja con klave y elementos 
 	private HashMap<String, Medicamentos> hashMap = new HashMap<String, Medicamentos>();
 	
 	@Override

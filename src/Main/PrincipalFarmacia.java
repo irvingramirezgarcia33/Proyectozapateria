@@ -56,7 +56,7 @@ public class PrincipalFarmacia {
 			lectura = new Scanner(System.in);
 			recetaMedi=lectura.nextBoolean();
 			
-			//Crear objeto 
+			//Crear objeto con los parametros
 			
 			medicamento = new Medicamentos(nombreMedi, marcaMedi, precioMedi, recetaMedi);		
 			
