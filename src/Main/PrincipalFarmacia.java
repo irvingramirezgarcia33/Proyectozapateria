@@ -14,7 +14,8 @@ public class PrincipalFarmacia {
 		System.out.println("HOLA MUNDO" +100);
 		
 		Scanner lectura = null;
-
+        String nombreDelDoctor;
+		String nombreDeLaDoctora;
 		String nombreMedi;
 		String marcaMedi;
 		float precioMedi;
