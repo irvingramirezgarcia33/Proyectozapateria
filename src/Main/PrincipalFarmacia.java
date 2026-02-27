@@ -10,6 +10,9 @@ public class PrincipalFarmacia {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		//SE AGREGA ESTE CODIGO 
+		System.out.println("HOLA MUNDO" +100);
+		
 		Scanner lectura = null;
 
 		String nombreMedi;
